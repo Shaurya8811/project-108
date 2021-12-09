@@ -1,0 +1,42 @@
+body {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:aquamarine;
+}
+
+.header_div{
+
+    background-color: blueviolet;
+    color: crimson;
+}
+
+.header_div p {
+
+    font-family: cursive;
+    color: crimson;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button {
+
+font-family:cursive;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer {
+
+    position: fixed;
+    color: crimson;
+    width: 100%;
+    font-size: 18px;
+    background-color: darkcyan;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 6px #ed404e;
+    bottom: 0;
+}
